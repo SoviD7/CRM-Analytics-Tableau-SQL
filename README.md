@@ -37,8 +37,5 @@ Breakdown of the expected amount based on different types or categories of oppor
 ### xii) Opportunities by Industry: 
 Categorizing opportunities based on the industry they belong to, helping in understanding the distribution and focus of opportunities across different sectors.
 
-![Alt Text](WhatsApp Image 2023-10-19 at 7.13.28 PM.jpeg)
-
-![Alt Text](WhatsApp Image 2023-10-20 at 2.00.44 PM.jpeg)
 
 
